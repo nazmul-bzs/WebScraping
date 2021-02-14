@@ -1,0 +1,4 @@
+beautifulsoup4==4.9.1
+clint==0.5.1
+pathlib2==2.3.5
+requests
